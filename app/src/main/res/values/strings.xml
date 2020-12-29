@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TheCoffeeHouse</string>
+    <string name="forgot_pwd"><u>Forgot Password?</u></string>
+    <string name="slogan">Welcome to TheCoffeeHouse</string>
+    <string name="title_activity_main3">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="regis"><u>Want to SignUp?</u></string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="version">Discover..Delivery..Rersavation</string>
+    <string name="loading"> Loading...</string>
+    <string name="tencongty">hello</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/news"
+        android:title=""
+        android:icon="@drawable/news"
+        />
+    <item
+        android:id="@+id/delivery"
+        android:title=""
+        android:icon="@drawable/delivery"
+        />
+    <item
+        android:id="@+id/donhang"
+        android:icon="@drawable/ic_order_food"
+        android:title=""/>
+    <item
+        android:id="@+id/store"
+        android:title=""
+        android:icon="@drawable/ic_thongbao"
+        />
+    <item
+        android:id="@+id/account"
+        android:title=""
+        android:icon="@drawable/person"
+        />
+</menu>
